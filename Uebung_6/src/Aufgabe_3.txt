@@ -1,0 +1,6 @@
+1. Das IF-Statement wird nicht durch einen : abgeschlossen.
+2. Dem Wert "balance" wird der Wert 1 zugewiesen da hier nur ein Zuweisungsoperator (=) ist, statt ein Vergleichsoperator wie ein (==)
+
+if balance == 0:
+    print("Der Kontostand hat den Wert 0.")
+

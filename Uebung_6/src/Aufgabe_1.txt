@@ -1,0 +1,10 @@
+Wert            Datentyp
+----------------------
+35              int
+True            bool
+3               int
+10.0            float
+0               int
+aString10       str
+gleich          str
+
