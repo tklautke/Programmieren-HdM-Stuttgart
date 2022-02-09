@@ -50,7 +50,6 @@ class Apartment:
     def set_id(self, id):
         self.__id = id
 
-
     def get_square_meters(self):
         return self.__square_meters
 
