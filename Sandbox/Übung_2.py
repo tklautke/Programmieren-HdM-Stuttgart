@@ -14,6 +14,6 @@ tuple2 = tuple()
 
 print(tuple2)
 
-tuple2 = (1,2,3,4)
+tuple2 = (1, 2, 3, 4)
 
 print(tuple2)

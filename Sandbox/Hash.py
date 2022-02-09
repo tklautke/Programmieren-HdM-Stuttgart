@@ -4,4 +4,5 @@ def test(d):
         z = z + ord(i)
     return z % 100
 
+
 print(test("NANA"))

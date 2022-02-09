@@ -1,6 +1,6 @@
-from Prüfung_Übung.SchoolClass import SchoolClass
-from Prüfung_Übung.Student import Student
-from Prüfung_Übung.Teacher import Teacher
+from Prüfung.School.SchoolClass import SchoolClass
+from Prüfung.School.Student import Student
+from Prüfung.School.Teacher import Teacher
 
 if __name__ == '__main__':
     """

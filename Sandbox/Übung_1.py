@@ -24,4 +24,3 @@ sportscar1 = Sportscar(400, "diesel", 2000, 4, "white", True)
 sportscar1.fahren(20, 20)
 
 print(sportscar1.y_cords, sportscar1.x_cords)
-

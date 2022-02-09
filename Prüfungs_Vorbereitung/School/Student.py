@@ -1,4 +1,4 @@
-from Prüfung_Übung.Human import Human
+from Prüfung.School.Human import Human
 
 
 class Student(Human):
